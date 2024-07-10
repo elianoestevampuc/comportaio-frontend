@@ -1,0 +1,19 @@
+version: "2.4"
+services:
+  pessoa:
+    container_name: comportaio-api-pessoa
+    image: elianoestevam/comportaio-api-pessoa:1.0
+    ports:
+      - 8000:8000
+
+  rotina:
+    container_name: comportaio-api-rotina
+    image: elianoestevam/comportaio-api-rotina:1.0 
+    ports:
+      - 8001:8001    
+
+  front:
+    container_name: comportaio-front
+    image: elianoestevam/comportaio-front:1.0 
+    ports:
+      - 80:80               
