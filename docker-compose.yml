@@ -13,7 +13,7 @@ services:
       - 8001:8001    
 
   front:
-    container_name: comportaio-front
-    image: elianoestevam/comportaio-front:1.0 
+    container_name: comportaio-frontend
+    image: elianoestevam/comportaio-frontend:1.0 
     ports:
       - 80:80               
