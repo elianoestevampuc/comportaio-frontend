@@ -23,7 +23,7 @@ Apresentação em: https://youtu.be/6cihGNLlNhE
 > ⚠️ A aplicação consome as API's:
 - [API Pessoa](https://github.com/elianoestevampuc/comportaio-api-pessoa.git)
 - [API Rotina](https://github.com/elianoestevampuc/comportaio-api-rotina.git)
-- [API Imagens](https://www.pexels.com/pt-br/api/)
+- [API de Imagens](https://www.pexels.com/pt-br/api/)
 
 ## Pré-visualização
 
