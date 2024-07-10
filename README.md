@@ -47,5 +47,5 @@ docker-compose up
 ```
 
 ### 2 - Visualizar o front-end
-Para visualiazar o front-end, acesse a URL [http://localhost/comporta.io](http://localhost/comporta.io) no browser.
+Para visualizar o front-end, acesse a URL [http://localhost/comporta.io](http://localhost/comporta.io) no browser.
 
