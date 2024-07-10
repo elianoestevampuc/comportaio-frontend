@@ -37,17 +37,16 @@ https://github.com/elianoestevampuc/comportaio-frontend.git
 ## Dependência
 Docker
 
-## Executando a Aplicação
+## Executando o front-end
 
 
-### 1 - Subir a aplicação
-Para subir a aplicação, execute o seguinte comando:
+### 1 - Subir o front-end
+Para subir o front-end, execute o seguinte comando:
 
 ```
 docker-compose up
 ```
-> ⚠️ A execução desse comando irá subir o frontend da aplicação como também as API's.
 
-### 2 - Visualizar a Aplicação
-Para visualiazar a aplicação, acesse a URL [http://localhost/comporta.io](http://localhost/comporta.io) no browser.
+### 2 - Visualizar o front-end
+Para visualiazar o front-end, acesse a URL [http://localhost/comporta.io](http://localhost/comporta.io) no browser.
 
