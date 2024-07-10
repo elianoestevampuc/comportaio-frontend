@@ -49,5 +49,5 @@ docker-compose up
 > ⚠️ A execução desse comando irá subir o frontend da aplicação como também as API's.
 
 ### 2 - Visualizar a Aplicação
-Para visualiazar a aplicação, acesse a URL [http://localhost/comporta.io](http://localhost/comporta.io){:target="_blank" rel="noopener"} no browser.
+Para visualiazar a aplicação, acesse a URL [http://localhost/comporta.io](http://localhost/comporta.io) no browser.
 
